@@ -1,4 +1,4 @@
-# Bank Term Deposit Subscription Prediction
+# Term Deposit Subscription Prediction
 
 ## Project Overview
 
